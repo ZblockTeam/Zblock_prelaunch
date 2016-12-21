@@ -58,7 +58,7 @@ Where do I begin?
 Building
 --------
 
-Complete source will be released after crowdfunding sale. This source code miss the main.cpp file to avoid code exploitation before the official launch but at the same time to give proof of existence of code.
+Complete source will be released after crowdfunding sale. This source code miss the chainparams file and frontend folders to avoid code exploitation before the official launch but at the same time to give proof of existence of code.
 
 License
 -------
